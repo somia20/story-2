@@ -1,0 +1,20 @@
+From 7eb4a8708bcf660d162c4e75f218e13d18a931ad Mon Sep 17 00:00:00 2001
+From: somia20 <unibicsomia20@gmail.com>
+Date: Tue, 28 Feb 2023 12:42:56 +0530
+Subject: [PATCH] Fix  is Done almost
+
+---
+ chapter1.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/chapter1.txt b/chapter1.txt
+index c9693ef..27a59b1 100644
+--- a/chapter1.txt
++++ b/chapter1.txt
+@@ -1,2 +1,2 @@
+ This is a story.
+-This is a new story
++This is an old story
+-- 
+2.39.2.windows.1
+
